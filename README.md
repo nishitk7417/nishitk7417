@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishit Kumar (@nishitk7417)
-- 👀 I’m interested in Web Development, ReactJS, and building innovative projects.
+- 👀 I’m interested in Web Development, MERN and building innovative projects.
 - 🌱 I’m currently learning Advanced React features, implementing animations, and enhancing UI/UX design skills.
 - 💞️ I’m looking to collaborate on Open-source React projects, frontend development, and beginner-friendly community initiatives.
 - 📫 How to reach me Email: nishitku123@gmail.com and LinkedIn: https://www.linkedin.com/in/nishit-kumar-145148255/
